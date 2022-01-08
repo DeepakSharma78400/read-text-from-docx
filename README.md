@@ -29,3 +29,4 @@ now run on the localhost
 
 ### Thanks You
 TechTechInfo.com
+https://techtechinfo.com/how-to-read-the-text-from-docx-in-php/
